@@ -3,6 +3,25 @@ import subprocess
 import re
 import matplotlib.pyplot as plt
 import numpy as np
+import csv
+
+#check if "time" and "wasmtime" are available commands
+def check_command(command):
+    try:
+        subprocess.run(["which", command], capture_output=True, check=True)
+        return True
+    except subprocess.CalledProcessError:
+        return False
+
+#time command
+if not check_command("time"):
+    print("'time' is not available. Install it.")
+    exit(1)
+
+#wasmtime command
+if not check_command("wasmtime"):
+    print("'wasmtime' is not available. Install wasm-tools.")
+    exit(1)
 
 
 #"time" command in terminal and takes the average of the 10 values obtained for each type of file.
@@ -33,6 +52,10 @@ def benchmark_files(directory):
     wasm_dir = os.path.join(directory, "wasm")
     wasm_obf_dir = os.path.join(directory, "wasm_obfuscated")
     native_obf_dir = os.path.join(directory, "native_obfuscated")
+    
+    #verify existence of directories
+    if not os.path.exists(native_dir) or not os.path.exists(wasm_dir) or not os.path.exists(wasm_obf_dir) or not os.path.exists(native_obf_dir):
+        raise FileNotFoundError("Some subdirectories not found")
     
     
     #native times
@@ -98,97 +121,40 @@ def calculate_overhead(results):
     
     return avg_overhead_wasm, avg_overhead_wasm_obf, avg_overhead_native_obf
 
-#histogram saved in a file
-def plot_bar_chart(results, avg_overhead_wasm, avg_overhead_wasm_obf, avg_overhead_native_obf, bar_chart_file):
-    names = list(results.keys())
-    native_times = []
-    wasm_times = []
-    wasm_obf_times = []
-    native_obf_times = []
-    
-    for values in results.values():
-        native_times.append(values[0] if values[0] is not None else np.nan)
-        wasm_times.append(values[1] if values[1] is not None else np.nan)
-        wasm_obf_times.append(values[2] if values[2] is not None else np.nan)
-        native_obf_times.append(values[3] if values[3] is not None else np.nan)
-    
-    
-    x = np.arange(len(names))
-    width = 0.2  
-
-    fig, ax = plt.subplots(figsize=(12, 6))
-
-    
-    ax.bar(x - width, native_times, width, label='Binary', color='red')
-    ax.bar(x, wasm_times, width, label='WASM', color='blue')
-    ax.bar(x + width, wasm_obf_times, width, label='WASM Obfuscated', color='green')
-    ax.bar(x + 2*width, native_obf_times, width, label='Native Obfuscated', color='brown')
-
-    
-    ax.set_xlabel('File')
-    ax.set_ylabel('Seconds')
-    ax.set_title(f'Runtime (Overhead WASM: {avg_overhead_wasm}% - Overhead WASM Obfuscated: {avg_overhead_wasm_obf}% - Overhead Native Obfuscated: {avg_overhead_native_obf}%)')
-    ax.set_xticks(x + width)
-    ax.set_xticklabels(names, rotation=45, ha="right")
-    ax.legend()
-
-    plt.tight_layout()
-    plt.savefig(bar_chart_file)  
-    plt.close()
-
-#boxplot saved in a file
-def plot_boxplot_chart(results, boxplot_file):
-    names = list(results.keys())
-    
-    
-    native_times = []
-    wasm_times = []
-    wasm_obf_times = []
-    native_obf_times = []
-    
-    for values in results.values():
-        native_times.append(values[0] if values[0] is not None else np.nan)
-        wasm_times.append(values[1] if values[1] is not None else np.nan)
-        wasm_obf_times.append(values[2] if values[2] is not None else np.nan)
-        native_obf_times.append(values[3] if values[3] is not None else np.nan)
-    
-    
-    data = [native_times, wasm_times, wasm_obf_times, native_obf_times]
-    labels = ['Binary', 'WASM', 'WASM Obfuscated', 'Native Obfuscated']
-
-    fig, ax = plt.subplots(figsize=(12, 6))
-
-   
-    ax.boxplot(data, vert=False, patch_artist=True, labels=labels, 
-               boxprops=dict(facecolor='lightgray', color='gray'),
-               flierprops=dict(marker='o', color='red', markersize=5),
-               medianprops=dict(color='black'))
-
-    
-    ax.set_xlabel('Seconds')
-    ax.set_title('Runtime Distribution')
-
-    plt.tight_layout()
-    plt.savefig(boxplot_file) 
-    plt.close()
 
 
-directory_path = "/home/ubuntu/Desktop/Benchmark"
-benchmark_results = benchmark_files(directory_path)
+#path of this directory 
+this_directory = os.path.dirname(os.path.abspath(__file__))
+
+benchmark_results = benchmark_files(this_directory)
 
 avg_overhead_wasm, avg_overhead_wasm_obf, avg_overhead_native_obf = calculate_overhead(benchmark_results)
 
-print(f"Overhead medio WASM: {avg_overhead_wasm}%")
-print(f"Overhead medio WASM Obfuscated: {avg_overhead_wasm_obf}%")
-print(f"Overhead medio Native Obfuscated: {avg_overhead_native_obf}%")
+
+def save_to_csv(results, output_file):
+    with open(output_file, mode='w', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow(["name", "native", "wasm", "wasm_obfuscated", "native_obfuscated"])
+        
+        for name, values in results.items():
+            writer.writerow([name] + values)
 
 
-bar_chart_file = "bar_chart.png"
-boxplot_file = "boxplot_chart.png"
 
 
-plot_bar_chart(benchmark_results, avg_overhead_wasm, avg_overhead_wasm_obf, avg_overhead_native_obf, bar_chart_file)
-plot_boxplot_chart(benchmark_results, boxplot_file)
+
+output_dir = os.path.join(this_directory, "runtime_distribution")
+#verify "runtime_distribution" exists. If not, it creates it
+os.makedirs(output_dir, exist_ok=True)
+#save there the csv file
+output_csv = os.path.join(output_dir, "runtime_results.csv")
+save_to_csv(benchmark_results, output_csv)
+
+#overhead
+print(f"Overhead WASM: {avg_overhead_wasm}%")
+print(f"Overhead WASM Obfuscated: {avg_overhead_wasm_obf}%")
+print(f"Overhead Native Obfuscated: {avg_overhead_native_obf}%")
+
 
 
 
