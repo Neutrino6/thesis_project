@@ -4,6 +4,7 @@ import re
 import matplotlib.pyplot as plt
 import numpy as np
 import csv
+import time
 
 #check if "time" and "wasmtime" are available commands
 def check_command(command):
@@ -41,6 +42,8 @@ def get_execution_time(command):
             else:
                 times.append(float(seconds))
                 
+        time.sleep(0.1)
+                
     #average with 4 decimals
     avg_time = sum(times) / len(times) if times else None
     return round(avg_time, 4) if avg_time is not None else None
@@ -49,8 +52,8 @@ def benchmark_files(directory):
     results = {}
     
     native_dir = os.path.join(directory, "native")
-    wasm_dir = os.path.join(directory, "wasm")
-    wasm_obf_dir = os.path.join(directory, "wasm_obfuscated")
+    wasm_dir = os.path.join(directory, "wasm_emscripten")
+    wasm_obf_dir = os.path.join(directory, "wasm_obfuscated_bynarien")
     native_obf_dir = os.path.join(directory, "native_obfuscated")
     
     #verify existence of directories

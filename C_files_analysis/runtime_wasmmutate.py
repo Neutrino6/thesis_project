@@ -4,6 +4,7 @@ import re
 import matplotlib.pyplot as plt
 import numpy as np
 import csv
+import time
 
 #check if "time" and "wasmtime" are available commands
 def check_command(command):
@@ -40,6 +41,8 @@ def get_execution_time(command):
                 times.append(minutes * 60 + float(seconds))
             else:
                 times.append(float(seconds))
+                
+        time.sleep(0.1)
                 
     #average with 4 decimals
     avg_time = sum(times) / len(times) if times else None
