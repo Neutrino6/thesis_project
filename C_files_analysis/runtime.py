@@ -147,7 +147,7 @@ output_dir = os.path.join(this_directory, "runtime_distribution")
 #verify "runtime_distribution" exists. If not, it creates it
 os.makedirs(output_dir, exist_ok=True)
 #save there the csv file
-output_csv = os.path.join(output_dir, "runtime_results.csv")
+output_csv = os.path.join(output_dir, "runtime_bynarien.csv")
 save_to_csv(benchmark_results, output_csv)
 
 #overhead
