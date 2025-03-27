@@ -62,7 +62,7 @@ def benchmark_files(directory):
     wasm_clang_files = [f for f in os.listdir(wasm_clang_dir) if f.endswith(".wasm")]
     for wasm_clang in wasm_clang_files:
         name = wasm_clang.replace(".wasm", "")  #remove .wasm
-        avg_wasm_clang_time = get_execution_time(f"./{os.path.join(wasm_clang_dir, wasm_clang)}")  #executes
+        avg_wasm_clang_time = get_execution_time(f"wasmtime {os.path.join(wasm_clang_dir, wasm_clang)}")  #executes
         results[name] = [avg_wasm_clang_time, None, None]
     
     #wasm_obf_clang times
