@@ -25,12 +25,12 @@ def write_csv():
             "paper": "yes",
             "origin": "MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense"
         },
-       # "WasmMal/malware": {
-        #    "source_file": "unknown",
-       #     "malware_type": "unknown",
-        #    "paper": "yes",
-        #    "origin": "WasmGuard: Enhancing Web Security through Robust Raw-Binary Detection of WebAssembly Malware"
-      #  }, 
+        "Hynek_Petrak/Wasm_Petrak": {
+            "source_file": "javascript",
+            "malware_type": "unknown",
+            "paper": "no",
+            "origin": "Hynek Petrak"
+        }, 
         "MINOS/malign": {
             "source_file": "unknown",
             "malware_type": "cryptojacking",
