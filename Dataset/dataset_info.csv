@@ -1,0 +1,284 @@
+wasm_file_name,source_file,malware_type,paper,origin
+426e44e4c59eab5caeb33b5f0ab569c54fcba00a88def98a0ffacc0eedc59ad5.wasm,javascript,unknown,no,Malware Bazaar
+9bf02de6daa7050053fecedce07fd73aa8b5406ff9fc63d3fd806b8a6e4f0384.wasm,javascript,unknown,no,Malware Bazaar
+dc7d0427f01e02a7752db8ac7aa6f77caf8dc83896b74b3cf6999fcba3288020.wasm,javascript,unknown,no,Malware Bazaar
+923b51a8e59ac5dc4db026988ec3f205f21cbb6590cd14b0e68b9cb0d8114ad7.wasm,javascript,unknown,no,Malware Bazaar
+a313e0c456b2f0bc4ae15dc052990adf4084cb5bd1585fa55c1fb2d07e031539.wasm,javascript,unknown,no,Malware Bazaar
+28a97abb899a7f3daf938ba7b89c32e08dec0cfcdd8d3d478cd97cb5e955e08a.wasm,javascript,unknown,no,Malware Bazaar
+de28be21a2317222e29aba5e7796ba45590674b864f3058f7839e447f5be6991.wasm,javascript,unknown,no,Malware Bazaar
+6de8ad4182f78d8a1735e8775e91afb7cabc2e489347ef0d5e0b5d855377e95c.wasm,javascript,unknown,no,Malware Bazaar
+df487012423e08a9a631e234caabdacbecbd10c4593483af568855ff9930c69f.wasm,javascript,unknown,no,Malware Bazaar
+74290592dacffc76566bd96f54da0d4a2cec1d6744f6c27ff5cbdff2eb13774a.wasm,javascript,unknown,no,Malware Bazaar
+d49b8af9259923b75fbd0445b804ab36eefdbbbb5b536b0158f8183371d2ae75.wasm,javascript,unknown,no,Malware Bazaar
+92660c42d00756bde10298b486e64445d8de7e8e973f0a20938af3f3bb7cb42c.wasm,javascript,unknown,no,Malware Bazaar
+e65ce3a0a794d29433f6a5bd6b0e75890191f6b227a8a0605b13c530e38805bc.wasm,javascript,unknown,no,Malware Bazaar
+1376e2994822a7fc817e50442597a2e1ef8ecb4e684992f6a890028e55f2b916.wasm,javascript,unknown,no,Malware Bazaar
+60667b8d0b8ed46c3b023dfec70fad2f24cb4bdd15060db90e6176e67ca09c76.wasm,javascript,unknown,no,Malware Bazaar
+5b9a611f5ca531f0794cf9601360e1414c72079689ce107c2ebf4c5bb6fc5f8d.wasm,javascript,unknown,no,Malware Bazaar
+14ba8ae66ed1432adbcc5960be437b826af7ffb9eacde05f97cce176a3dd1b1b.wasm,javascript,unknown,no,Malware Bazaar
+1e93ac50d985016adb746750e1e53a686b3dadbe5f5dc52fd3ec9be6c9e4e384.wasm,javascript,unknown,no,Malware Bazaar
+fdb2ff6bc973aa53c7a26e1c84d2c73c5ca7b5b6039805a52b1e45f7c919c858.wasm,javascript,unknown,no,Malware Bazaar
+f701462f86d070b096c213dc2d3ee698a01639037c9c511a71f086ea3c1593f5.wasm,javascript,unknown,no,Malware Bazaar
+364cc68c3148bf4509aac0afed0a5b6daff7e9c39b14349e662095b7c86dde0f.wasm,javascript,unknown,no,Malware Bazaar
+d4aed31209386aa808411ba641dadd0fd33a895cac05f1700468e9853cfc1cd9.wasm,javascript,unknown,no,Malware Bazaar
+16b4696932ba35ea1840d7b8145bcc48550447c7880ae0c4148637d9b813b4ea.wasm,javascript,unknown,no,Malware Bazaar
+0ddb41d167fe62c5a1ccf2a783d27a54c38f68d0466c41d6b84ba2b78746b538.wasm,javascript,unknown,no,Malware Bazaar
+da135dbe63cea0a7437a04319e45dbdbffd22b1c27dc2c50d334a3117af6bb1a.wasm,javascript,unknown,no,Malware Bazaar
+7f38be2593e003aaac7adcd4ee19587d85f62b32821cad87ca784f5abf1269e6.wasm,javascript,unknown,no,Malware Bazaar
+2899208ee77af2f7505c9df3e2622f133086523b8a463f3fe7e5fdbaabdddef2.wasm,javascript,unknown,no,Malware Bazaar
+ea0d066ebf9c3ce8655319599cf1651988b7622371178730216b519a31ac2246.wasm,javascript,unknown,no,Malware Bazaar
+554ddcf3fa2e705acf26366e8f81165c94f38a51d3e159a7f25666ae7e166c97.wasm,javascript,unknown,no,Malware Bazaar
+c56b0a3ef4ee4152732305001c27485fa602aec2243ba238c729c049b94c8517.wasm,javascript,unknown,no,Malware Bazaar
+e60e527d07220d6220935a9d47478d2bf9cc550b7a32e9944ea44e32d9e3aa8f.wasm,javascript,unknown,no,Malware Bazaar
+5142dcace68939f97e84a5e5cc8f039d17b5590528acb8b2eccedaddb943dae4.wasm,javascript,unknown,no,Malware Bazaar
+2e2b3b66961445c504f5558624aa96b609a9860d2f22d88746d2f55bbb3769a0.wasm,javascript,unknown,no,Malware Bazaar
+1d569e908a20dfa7b575fed3bfe8579c28a618863989bd442523491cd4c6228d.wasm,javascript,unknown,no,Malware Bazaar
+ad0bd346d93e5c9b3d8b6c3513406ba3eee0dbc2f8f60730fa1496ee0c8be2ce.wasm,javascript,unknown,no,Malware Bazaar
+46d62892a604dbe0d4a7dc04f8474c390420dbd2e4e1d893cce5b17b524f50af.wasm,javascript,unknown,no,Malware Bazaar
+f917f31216deb0765e687fed60323e7b6a317002febb1e2b0b6999baff8690ba.wasm,javascript,unknown,no,Malware Bazaar
+754f5387e3aa9ce3cb70c439f7085deed8820e3b5b929e1da747f995d19398a5.wasm,javascript,unknown,no,Malware Bazaar
+0a2b59698651ff2b7b94bc9b41fd04482eb5a2e78242227caf3c59c7ce21284b.wasm,javascript,unknown,no,Malware Bazaar
+e8e57c628046b72fb5240879e62493d4af8ad86a2633c6b38381ff750278b5db.wasm,javascript,unknown,no,Malware Bazaar
+8044220d34e77501df4a9831ac27802261ea2309f104bb49ac00301df36dee72.wasm,javascript,unknown,no,Malware Bazaar
+a6f004278cbe0c84fe811c8ddb9022ae8b7a695d83660e11357f3f1d24eba442.wasm,javascript,unknown,no,Malware Bazaar
+46dce55154151ff0442aacf8fa6c4992128991ac5f404b8774514f7b5a2cca84.wasm,javascript,unknown,no,Malware Bazaar
+9690ebb923acd798749d7bc2d1cee17d7c1899cf696558e440ecd2482907fddc.wasm,javascript,unknown,no,Malware Bazaar
+b591c820d8a656f933ddd94cd3243869043a36ef8d186316335449c1f3cc1f60.wasm,javascript,unknown,no,Malware Bazaar
+8d06f8c4a583736bb005216551a0e9a146d50afe8bdf0cf2ab1e37aceb98c4bf.wasm,javascript,unknown,no,Malware Bazaar
+8088784a924870c55896833073ab4941a4cb55bee5ddfb90fb5638d07302ac9c.wasm,javascript,unknown,no,Malware Bazaar
+88fc9e9bbaf65fe3c0ca642fc83bb3e38fc84adf74cb268117da258da2980376.wasm,javascript,unknown,no,Malware Bazaar
+d0db70978215eb34.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+72b2c42dbaadbbb8.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+63adf635e519a0ce.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+106be063809a285d.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+963e1671f08176cd.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+79eb42e12fc3cf7e.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+0216b7f14acb122f.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+86523d02b086659d.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+cb7553961e3634b5.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+10d27d70bad9d188.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+3a442686a0a46aed.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+b60176457653af84.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+0c573253c1364256.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+e923c07a85a24b45.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+690f9f49cd763cdb.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+07c3f9b6cfd974e8.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+6b936036702c733c.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+99d2307d0411addc.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+ea1e27ce1d786c53.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+01232858538c8f13.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+90807b1852d4d45c.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+3a1da6d43c7f8e24.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+528681a9bd7341e9.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+480d1eb0e1bc8db9.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+f8b45e4c875951a2.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+bb96719fd70347ce.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+1368592704046297.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+bcfedce2844f03e4.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+76637361a1fa8953.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+f1a47c941b7c4a10.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+f046483e793a6f39.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+c8a2e3c62d978ed4.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+539e0e036456d65f.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+5ca7fb26d8809871.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+c491698879ac4455.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+81510c9565779b86.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+4b81140bef372673.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+18ab17bf5b29dff1.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+06f4674abf5180aa.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+2d91d87f7e5149af.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+03769f22117f4ab9.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+0cf30bb97b0915ab.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+c0d281c471edd3b3.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+56157e5740de15c8.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+c7a4800c38af010c.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+7156f04074bfa5dc.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+c2a98c72b25b1562.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+f0d275390ef38200.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+b4a0dddbcd2d4bee.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+0aba70602588d085.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+8e61b43ddf8d78cd.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+b0a0d6a9faf2c91e.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+d3e81af06c8d5fcd.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+68e754d4d01ae2dd.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+1c976f694fb782f4.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+16d527a273dc5caa.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+28bff3b9c36ba977.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+85dcd5d837a740da.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+4299cc0985cce299.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+b197838c69172a38.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+dd3647ef1aaa6076.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+7c205e9404287fab.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+e2bc0dd21b128ed7.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+ca8b5d99d7cfaa2e.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+3607e11c46c5fa5d.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+78067f4b558d32a1.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+6e76390f45633029.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+1ff26262c97795c1.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+140e5687057b3e13.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+7008e96d7718a42c.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+cdda7f45fb53de52.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+3cb9f39270942094.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+ceceeb6bd5bcfc8e.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+9364f7b3b20ec836.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+d790731c2ef09526.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+7804144ad8232ae7.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+9b9e06a7d18cbc50.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+db457b0b5f1996e2.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+8389c5589b194d10.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+651ee08c63b86750.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+81376b3ec282a00c.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+55c17e065c86d4f1.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+8200fc57b7361d2a.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+648e748637ee1caa.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+319e041a93e203e5.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+10aef6da397bb409.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+376a2f1c703cb04a.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+8146b8dd990acd76.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+546fa61a0cdbbf65.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+93b27f47686a6221.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+44c32b98922174e3.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+bf43af885702545d.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+a0f41a995aabe300.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+946195262c9739cc.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+f54ff4e6d6ae042b.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+8fdc875aec7840ec.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+03504d4123f79f5e.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+d1dfc35cda657cd4.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+30f1d06ae1862369.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+be952d0342b6a782.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+4aa86dce55ade45f.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+8182bf53f90bebd1.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+fcfcad86554a9449.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+d81709bf9e19234e.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+9f2e1e0e59b5ed4c.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+a7155fd5815d444e.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+a95214bf29f01280.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+7c292207fc405aa5.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+864a1ea59c01d220.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+140488642b4f1b8e.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+fb11f2be2e64eb4e.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+4c0f6a49d0de5f43.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+f658be9765377e45.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+636be31345396195.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+98912e9b9ea11305.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+a44fe36392529b81.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+91abdb6b0dfa757f.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+f94b319c54fdb858.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+c47a30f74dd6d1ce.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+c5109b2ba585e863.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+4a7615b7dabc76b1.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+34d59295d994fe3a.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+c633ac8b4e1e11ae.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+88184f6632fb7a6a.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+77966562af70cf6e.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+ce3fc25ea5b9182f.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+a1939d50d22cad0c.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+8eccf8a5722ab7bd.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+f97baec0d132a482.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+e34aced41597fc0d.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+796b62715b56f32d.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+52cd3b5410e1bb7d.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+6762ccacbe2dcc24.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+10814cdb22781e9d.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+e3a3dd6fb61826da.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+3a024a2a5acd8849.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+01871a765ccd1a4a.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+62299c3ae5b1418d.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+ba2b842fe7b9e0b2.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+0449c7f479a9a802.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+26b54e1dd4690919.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+86d4e4fa225b88c7.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+9fceb0526190bdf3.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+703a010742a9c869.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+4775b748fe395694.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+6717456c7a6ebe23.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+9a24894b1da3adfc.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+e10c2c8395c98624.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+2c98a924950a5a5f.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+303473c525f6b1f8.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+fb2ec304b9c56d83.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+91ac1ff8caeae70f.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+06503774d1e563b2.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+56e35772a5d67edd.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+ec521e86f88e71d8.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+04a5d48f4d815149.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+3d4f4f0491ce576f.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+e30fb31c197cd68e.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+f87795b6c6dc626a.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+a2cefc25b06c5f36.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+35ab00d96cd86453.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+93a7da340ec3f3c1.ok.wasm,unknown,cryptojacking,yes,MinerRay: Semantics-Aware Analysis for Ever-Evolving Cryptojacking Detection
+hevcbay.com_440f91e74c91ee83.ok.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+mvvfans.nl_9850eed46b0a9d35.ok.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+diarioelnorte.com.ar_a36158ce9fadf9e2.ok.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+avbye.com.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+ultigamerz.com_a4f030377720d386.ok.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+tainiesonline.top.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+allduniv.ac.in_dede8f7f53c494aa.ok.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+desirefx.me_12ee11d9fb5711b8.ok.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+pharmatips.in.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+creative-solutions.net_9697d29f961415cc.ok.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+bluegrassrivals.com.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+makataka.su_1c976f694fb782f4.ok.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+maimunata.com_be7873533b3fd3da.ok.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+pencurimovie.xyz_2de044ff7777cbf3.ok.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+justproxy.co.uk.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+watchdigimonepisodes.com_22ea68bd30c105cb.ok.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+uzhasnik.ru.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+crtanko.com_4eb88de73e041458.ok.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+wastedamateurs.com_d96a60acb9c51252.ok.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+insurance-blogs-moneys.com_df0e1c9bdba02189.ok.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+mangafap.com_bdba8ea975358ad2.ok.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+browsermine.com_c777d6679aaddbc6.ok.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+sergeydovlatov.ru_ae3d9c0f6eca08b5.ok.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+iglyfada.gr_7eeeca07b608b8d2.ok.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+citytoshi.com.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+2114.ru.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+omskbird.tv_3d37de2b64e580f3.ok.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+gostreams.me_ccda046a84285f3b.ok.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+allduniv.ac.in.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+javpoo.com_a2f39e310a614d87.ok.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+draftdayprospects.com_fd349fd98c7740ae.ok.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+bitcoinpeople.online.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+dunyatv.az.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+pumpand.win_e606bd1182f278ed.ok.wasm,unknown,cryptojacking,yes,MineSweeper: An In-depth Look into Drive-by Cryptocurrency Mining and Its Defense
+hevcbay.com_440f91e74c91ee83.ok.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+mvvfans.nl_9850eed46b0a9d35.ok.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+diarioelnorte.com.ar_a36158ce9fadf9e2.ok.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+avbye.com.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+ultigamerz.com_a4f030377720d386.ok.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+tainiesonline.top.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+allduniv.ac.in_dede8f7f53c494aa.ok.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+desirefx.me_12ee11d9fb5711b8.ok.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+pharmatips.in.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+cryptpnight.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+webminer_v1.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+creative-solutions.net_9697d29f961415cc.ok.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+bluegrassrivals.com.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+makataka.su_1c976f694fb782f4.ok.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+maimunata.com_be7873533b3fd3da.ok.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+pencurimovie.xyz_2de044ff7777cbf3.ok.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+justproxy.co.uk.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+watchdigimonepisodes.com_22ea68bd30c105cb.ok.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+worker.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+uzhasnik.ru.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+crtanko.com_4eb88de73e041458.ok.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+wastedamateurs.com_d96a60acb9c51252.ok.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+insurance-blogs-moneys.com_df0e1c9bdba02189.ok.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+mangafap.com_bdba8ea975358ad2.ok.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+browsermine.com_c777d6679aaddbc6.ok.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+jazecminer.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+sergeydovlatov.ru_ae3d9c0f6eca08b5.ok.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+iglyfada.gr_7eeeca07b608b8d2.ok.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+citytoshi.com.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+2114.ru.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+omskbird.tv_3d37de2b64e580f3.ok.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+gostreams.me_ccda046a84285f3b.ok.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+allduniv.ac.in.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+javpoo.com_a2f39e310a614d87.ok.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+draftdayprospects.com_fd349fd98c7740ae.ok.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+bitcoinpeople.online.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+dunyatv.az.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+pumpand.win_e606bd1182f278ed.ok.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
+cryptonight_obfuscated.wasm,unknown,cryptojacking,yes,MINOS: A Lightweight Real-Time Cryptojacking Detection System
