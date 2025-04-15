@@ -31,6 +31,12 @@ def write_csv():
             "paper": "no",
             "origin": "Hynek Petrak"
         }, 
+        "geeksonsecurity/Wasm": {
+            "source_file": "javascript",
+            "malware_type": "unknown",
+            "paper": "no",
+            "origin": "GeeksOnSecurity"
+        }, 
         "MINOS/malign": {
             "source_file": "unknown",
             "malware_type": "cryptojacking",
