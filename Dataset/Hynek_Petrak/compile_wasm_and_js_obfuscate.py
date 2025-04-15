@@ -1,8 +1,9 @@
 import os
 import re
 import subprocess
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
-#dependency
+# dependency
 libraries = {
     "angular": [r'\bangular\b', r'import .*angular', r'require\(.*angular.*\)'],
     "bootstrap": [r'bootstrap', r'import .*bootstrap', r'require\(.*bootstrap.*\)'],
@@ -11,54 +12,73 @@ libraries = {
     "react": [r'\breact\b', r'import .*react', r'require\(.*react.*\)'],
 }
 
-#check dependency
+# check dependency
 def has_dependency(js_path):
-    with open(js_path, "r", encoding="utf-8", errors="ignore") as f:
-        content = f.read()
-        for patterns in libraries.values():
-            for pattern in patterns:
-                if re.search(pattern, content):
-                    return True
+    try:
+        with open(js_path, "r", encoding="utf-8", errors="ignore") as f:
+            content = f.read()
+            for patterns in libraries.values():
+                for pattern in patterns:
+                    if re.search(pattern, content):
+                        return True
+    except Exception as e:
+        print(f"Errore leggendo {js_path}: {e}")
     return False
 
-#compile in wasm with javy, and obfuscate javascript
-def process_js_files(base_directory, wasm_output_base, obfuscated_output_base):
+# check if .wasm already exists
+def wasm_exists(js_filename, wasm_output_base):
+    return any(os.path.exists(path) for path in [
+        os.path.join(wasm_output_base, js_filename + ".wasm"),
+        os.path.join(wasm_output_base, "With_dependency", js_filename + ".wasm")
+    ])
+
+# task eseguito in parallelo
+def process_single_file(js_path, wasm_output_base):
+    filename = os.path.basename(js_path)
+    filename_wo_ext = os.path.splitext(filename)[0]
+
+    # controlla se già esiste
+    if wasm_exists(filename_wo_ext, wasm_output_base):
+        return f"{filename} già compilato, salto."
+
+    # controlla dipendenze
+    has_dep = has_dependency(js_path)
+    wasm_subdir = "With_dependency" if has_dep else ""
+    wasm_output_dir = os.path.join(wasm_output_base, wasm_subdir)
+    os.makedirs(wasm_output_dir, exist_ok=True)
+
+    # compila
+    wasm_output_path = os.path.join(wasm_output_dir, filename_wo_ext + ".wasm")
+    compile_cmd = f'./javy build "{js_path}" -o "{wasm_output_path}"'
+    result = subprocess.run(compile_cmd, shell=True, executable='/bin/bash')
+
+    if result.returncode == 0:
+        return f"{filename} compilato in {wasm_output_path}"
+    else:
+        return f"Errore compilando {filename}"
+
+# funzione principale
+def process_js_files(base_directory, wasm_output_base, max_workers=4):
+    all_js_files = []
     for root, _, files in os.walk(base_directory):
         for file in files:
             if file.endswith(".js"):
-                js_path = os.path.join(root, file)
-                filename_wo_ext = os.path.splitext(file)[0]
+                all_js_files.append(os.path.join(root, file))
 
-                #dependency
-                has_dep = has_dependency(js_path)
+    print(f"Trovati {len(all_js_files)} file JavaScript. Inizio compilazione parallela...")
 
-                #output directories
-                wasm_subdir = "With_dependency" if has_dep else ""
-                wasm_output_dir = os.path.join(wasm_output_base, wasm_subdir)
-                os.makedirs(wasm_output_dir, exist_ok=True)
-
-                wasm_output_path = os.path.join(wasm_output_dir, filename_wo_ext + ".wasm")
-
-                #javy
-                compile_cmd = f'./javy build "{js_path}" -o "{wasm_output_path}"'
-                print(f"Compiling {file} -> {wasm_output_path}")
-                subprocess.run(compile_cmd, shell=True, executable='/bin/bash')
-
-                #javascript-obfuscator
-                os.makedirs(obfuscated_output_base, exist_ok=True)
-                obfuscated_output = os.path.join(obfuscated_output_base, filename_wo_ext + "_obfuscated.js")
-                obfuscate_cmd = f'javascript-obfuscator "{js_path}" --output "{obfuscated_output}"'
-                print(f"Obfuscating {file} -> {obfuscated_output}")
-                subprocess.run(obfuscate_cmd, shell=True, executable='/bin/bash')
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = [executor.submit(process_single_file, path, wasm_output_base) for path in all_js_files]
+        for future in as_completed(futures):
+            print(future.result())
 
     print("Operazione completata.")
 
-#directories
+# directory
 script_directory = os.getcwd()
 base_input_directory = os.path.join(script_directory, "Javascript")
 wasm_output_directory = os.path.join(script_directory, "Wasm_Petrak")
-obfuscated_output_directory = os.path.join(script_directory, "Binary_obfuscated")
 
-#let's go
-process_js_files(base_input_directory, wasm_output_directory, obfuscated_output_directory)
+# avvio
+process_js_files(base_input_directory, wasm_output_directory)
 
