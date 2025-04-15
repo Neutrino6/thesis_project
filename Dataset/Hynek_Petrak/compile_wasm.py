@@ -3,7 +3,7 @@ import re
 import subprocess
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# dependency
+#dependency
 libraries = {
     "angular": [r'\bangular\b', r'import .*angular', r'require\(.*angular.*\)'],
     "bootstrap": [r'bootstrap', r'import .*bootstrap', r'require\(.*bootstrap.*\)'],
@@ -12,7 +12,7 @@ libraries = {
     "react": [r'\breact\b', r'import .*react', r'require\(.*react.*\)'],
 }
 
-# check dependency
+#check dependency
 def has_dependency(js_path):
     try:
         with open(js_path, "r", encoding="utf-8", errors="ignore") as f:
@@ -22,42 +22,42 @@ def has_dependency(js_path):
                     if re.search(pattern, content):
                         return True
     except Exception as e:
-        print(f"Errore leggendo {js_path}: {e}")
+        print(f"Error {js_path}: {e}")
     return False
 
-# check if .wasm already exists
+#check if wasm already exists
 def wasm_exists(js_filename, wasm_output_base):
     return any(os.path.exists(path) for path in [
         os.path.join(wasm_output_base, js_filename + ".wasm"),
         os.path.join(wasm_output_base, "With_dependency", js_filename + ".wasm")
     ])
 
-# task eseguito in parallelo
+
 def process_single_file(js_path, wasm_output_base):
     filename = os.path.basename(js_path)
     filename_wo_ext = os.path.splitext(filename)[0]
 
-    # controlla se già esiste
+    #skip already compiled in wasm
     if wasm_exists(filename_wo_ext, wasm_output_base):
-        return f"{filename} già compilato, salto."
+        return f"{filename} skip"
 
-    # controlla dipendenze
+    #check dependency
     has_dep = has_dependency(js_path)
     wasm_subdir = "With_dependency" if has_dep else ""
     wasm_output_dir = os.path.join(wasm_output_base, wasm_subdir)
     os.makedirs(wasm_output_dir, exist_ok=True)
 
-    # compila
+    #compile in wasm
     wasm_output_path = os.path.join(wasm_output_dir, filename_wo_ext + ".wasm")
     compile_cmd = f'./javy build "{js_path}" -o "{wasm_output_path}"'
     result = subprocess.run(compile_cmd, shell=True, executable='/bin/bash')
 
     if result.returncode == 0:
-        return f"{filename} compilato in {wasm_output_path}"
+        return f"{filename} compiled in {wasm_output_path}"
     else:
-        return f"Errore compilando {filename}"
+        return f"Error {filename}"
 
-# funzione principale
+#js files
 def process_js_files(base_directory, wasm_output_base, max_workers=4):
     all_js_files = []
     for root, _, files in os.walk(base_directory):
@@ -65,20 +65,20 @@ def process_js_files(base_directory, wasm_output_base, max_workers=4):
             if file.endswith(".js"):
                 all_js_files.append(os.path.join(root, file))
 
-    print(f"Trovati {len(all_js_files)} file JavaScript. Inizio compilazione parallela...")
+    print(f"There are {len(all_js_files)} JavaScript files. Let's start")
 
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = [executor.submit(process_single_file, path, wasm_output_base) for path in all_js_files]
         for future in as_completed(futures):
             print(future.result())
 
-    print("Operazione completata.")
+    print("Done")
 
-# directory
+#directory
 script_directory = os.getcwd()
 base_input_directory = os.path.join(script_directory, "Javascript")
 wasm_output_directory = os.path.join(script_directory, "Wasm_Petrak")
 
-# avvio
+#let's go
 process_js_files(base_input_directory, wasm_output_directory)
 
