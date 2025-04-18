@@ -58,7 +58,7 @@ def process_single_file(js_path, wasm_output_base):
         return f"Error {filename}"
 
 #js files
-def process_js_files(base_directory, wasm_output_base, max_workers=4):
+def process_js_files(base_directory, wasm_output_base, max_workers=30):
     all_js_files = []
     for root, _, files in os.walk(base_directory):
         for file in files:
