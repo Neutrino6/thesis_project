@@ -1,0 +1,12 @@
+Results for vt_wasm_obf:
+
+Category: malicious
+4244 files have been marked by 0 antiviruses 
+4 files have been marked by 1 antiviruses 
+
+Category: suspicious
+4248 files have been marked by 0 antiviruses 
+
+Category: harmless
+4248 files have been marked by 0 antiviruses 
+

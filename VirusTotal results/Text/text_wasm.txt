@@ -1,0 +1,33 @@
+Results for vt_wasm:
+
+Category: malicious
+161 files have been marked by 0 antiviruses 
+65 files have been marked by 1 antiviruses 
+70 files have been marked by 2 antiviruses 
+246 files have been marked by 3 antiviruses 
+15 files have been marked by 4 antiviruses 
+8 files have been marked by 5 antiviruses 
+794 files have been marked by 6 antiviruses 
+382 files have been marked by 7 antiviruses 
+13 files have been marked by 8 antiviruses 
+82 files have been marked by 9 antiviruses 
+774 files have been marked by 10 antiviruses 
+186 files have been marked by 11 antiviruses 
+342 files have been marked by 12 antiviruses 
+696 files have been marked by 13 antiviruses 
+213 files have been marked by 14 antiviruses 
+13 files have been marked by 15 antiviruses 
+15 files have been marked by 16 antiviruses 
+45 files have been marked by 17 antiviruses 
+34 files have been marked by 18 antiviruses 
+63 files have been marked by 19 antiviruses 
+10 files have been marked by 20 antiviruses 
+20 files have been marked by 21 antiviruses 
+1 files have been marked by 22 antiviruses 
+
+Category: suspicious
+4248 files have been marked by 0 antiviruses 
+
+Category: harmless
+4248 files have been marked by 0 antiviruses 
+
